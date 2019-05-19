@@ -137,5 +137,5 @@
       }
     }
   },
-  "defaultProject": "employeeManagement"
+  "defaultProject": "dist/employeeManagement"
 }
